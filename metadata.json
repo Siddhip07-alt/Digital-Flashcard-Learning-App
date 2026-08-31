@@ -1,0 +1,6 @@
+{
+  "name": "Dual Learning Studio",
+  "description": "Interactive Flashcard Quiz with active recall auto-evaluation, progress tracking, and an Ask Anything AI Assistant delivering concise instant answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
